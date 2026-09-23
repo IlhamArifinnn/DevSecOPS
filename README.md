@@ -8,3 +8,5 @@ Link Materi tambahan dan praktikum DevSecOps
 4. Materi tambahan dan materi terkait Lab atau praktikum akan di publish di github Dosen. 
 
 #**Praktikum**
+
+- Pertemuan 2 — Toko Online (E-Commerce) untuk threat modeling: lihat [SETUP.md](SETUP.md)
